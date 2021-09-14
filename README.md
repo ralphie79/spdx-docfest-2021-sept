@@ -11,7 +11,7 @@ The report is a JSON document consisting of an array of entries, each having:
 * type;     The type of SPDX SBOM detected, from the supported choices of [JSON, YAML, RDF, XML, TV]
 * error;    Whether or not processing errors were encountered
 * status;   Status of document parsing and the text of any 'error' if failed
-* log;      Internal tool log data
-* messages; Array of messages logged by the spdx/tools-python parsers with the value of each key indicating the number of times a message was encountered*
+* log;      Array of strings representing the internal log messages from this analysis tool; primarily useful for observing the format decoding or detailed tracebacks
+* messages; Array of strings representing messages logged by the spdx/tools-python parsers with the value of each key indicating the number of times a message occurred*
   
 (* Location information in the message like file path or line number was stripped)  

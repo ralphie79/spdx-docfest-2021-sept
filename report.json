@@ -1,0 +1,1592 @@
+[
+  {
+    "path": "/home/rich/src/SPDX-DocFest-20210913-1120/Cisco/App-BOM-ination-10-1629991778185.spdx.json",
+    "type": "JSON",
+    "error": "True",
+    "status": "Document parsing encountered errors",
+    "log": {
+      "Try parse 'JSON'",
+      "Document parsing encountered errors"
+    },
+    "messages": {
+      "'{}' is not a valid value for PKG_VERIF_CODE_FIELD": 25,
+      "'['NOASSERTION']' is not a valid value for PKG_LIC_FRM_FILES": 25
+    }
+  },
+  {
+    "path": "/home/rich/src/SPDX-DocFest-20210913-1120/Cisco/Serve-v100-1630098082765.spdx.json",
+    "type": "JSON",
+    "error": "True",
+    "status": "Document parsing encountered errors",
+    "log": {
+      "Try parse 'JSON'",
+      "Document parsing encountered errors"
+    },
+    "messages": {
+      "'{}' is not a valid value for PKG_VERIF_CODE_FIELD": 6,
+      "'['NOASSERTION']' is not a valid value for PKG_LIC_FRM_FILES": 6
+    }
+  },
+  {
+    "path": "/home/rich/src/SPDX-DocFest-20210913-1120/Cisco/Time-19-1629840079506.spdx.json",
+    "type": "JSON",
+    "error": "True",
+    "status": "Document parsing encountered errors",
+    "log": {
+      "Try parse 'JSON'",
+      "Document parsing encountered errors"
+    },
+    "messages": {
+      "'{}' is not a valid value for PKG_VERIF_CODE_FIELD": 76,
+      "'['NOASSERTION']' is not a valid value for PKG_LIC_FRM_FILES": 76
+    }
+  },
+  {
+    "path": "/home/rich/src/SPDX-DocFest-20210913-1120/FOSSology/App-BOM-ination-1.0/SPDX2TV_App-BOM-ination-1.0.tar.gz_1629808252.spdx",
+    "type": "TV",
+    "error": "True",
+    "status": "Document parsing encountered errors",
+    "log": {
+      "Try parse 'JSON'",
+      "Parse 'JSON' failed",
+      "Expecting value: line 1 column 1 (char 0)",
+      "Try parse 'YAML'",
+      "Parse 'YAML' failed",
+      "mapping values are not allowed here\n  in \"/home/rich/src/SPDX-DocFest-20210913-1120/FOSSology/App-BOM-ination-1.0/SPDX2TV_App-BOM-ination-1.0.tar.gz_1629808252.spdx\", line 16, column 14",
+      "Try parse 'RDF'",
+      "Parse 'RDF' failed",
+      "file:///home/rich/src/SPDX-DocFest-20210913-1120/FOSSology/App-BOM-ination-1.0/SPDX2TV_App-BOM-ination-1.0.tar.gz_1629808252.spdx:1:0: syntax error",
+      "Try parse 'XML'",
+      "Parse 'XML' failed",
+      "syntax error: line 1, column 0",
+      "Try parse 'TV'",
+      "Document parsing encountered errors"
+    },
+    "messages": {
+      "PackageChecksum must be a single line of text, ": 2,
+      "FileChecksum must be a single line of text starting with 'SHA1:', ": 110
+    }
+  },
+  {
+    "path": "/home/rich/src/SPDX-DocFest-20210913-1120/FOSSology/App-BOM-ination-1.0/SPDX2_App-BOM-ination-1.0.tar.gz_1629808234.spdx.xml",
+    "type": "RDF",
+    "error": "True",
+    "status": "Package::ConcludedLicenses",
+    "log": {
+      "Try parse 'JSON'",
+      "Parse 'JSON' failed",
+      "Expecting value: line 1 column 1 (char 0)",
+      "Try parse 'YAML'",
+      "Parse 'YAML' failed",
+      "mapping values are not allowed here\n  in \"/home/rich/src/SPDX-DocFest-20210913-1120/FOSSology/App-BOM-ination-1.0/SPDX2_App-BOM-ination-1.0.tar.gz_1629808234.spdx.xml\", line 10, column 27",
+      "Try parse 'RDF'",
+      "Parse 'RDF' failed with <class 'spdx.parsers.builderexceptions.SPDXValueError'>"
+    },
+    "messages": {
+      "Invalid creator value 'Organization: ' must be Organization, Tool or Person.": 1,
+      "More than one Package checksum defined.": 2,
+      "Package concluded license list must have more than one member": 1
+    }
+  },
+  {
+    "path": "/home/rich/src/SPDX-DocFest-20210913-1120/FOSSology/charge-controller-firmware/SPDX2TV_charge-controller-firmware_1629808650.spdx",
+    "type": "TV",
+    "error": "True",
+    "status": "Document parsing encountered errors",
+    "log": {
+      "Try parse 'JSON'",
+      "Parse 'JSON' failed",
+      "Expecting value: line 1 column 1 (char 0)",
+      "Try parse 'YAML'",
+      "Parse 'YAML' failed",
+      "mapping values are not allowed here\n  in \"/home/rich/src/SPDX-DocFest-20210913-1120/FOSSology/charge-controller-firmware/SPDX2TV_charge-controller-firmware_1629808650.spdx\", line 16, column 14",
+      "Try parse 'RDF'",
+      "Parse 'RDF' failed",
+      "file:///home/rich/src/SPDX-DocFest-20210913-1120/FOSSology/charge-controller-firmware/SPDX2TV_charge-controller-firmware_1629808650.spdx:1:0: syntax error",
+      "Try parse 'XML'",
+      "Parse 'XML' failed",
+      "syntax error: line 1, column 0",
+      "Try parse 'TV'",
+      "Document parsing encountered errors"
+    },
+    "messages": {
+      "PackageChecksum must be a single line of text, ": 2,
+      "FileChecksum must be a single line of text starting with 'SHA1:', ": 304
+    }
+  },
+  {
+    "path": "/home/rich/src/SPDX-DocFest-20210913-1120/FOSSology/charge-controller-firmware/SPDX2_charge-controller-firmware_1629808633.spdx.xml",
+    "type": "RDF",
+    "error": "True",
+    "status": "Package::ConcludedLicenses",
+    "log": {
+      "Try parse 'JSON'",
+      "Parse 'JSON' failed",
+      "Expecting value: line 1 column 1 (char 0)",
+      "Try parse 'YAML'",
+      "Parse 'YAML' failed",
+      "mapping values are not allowed here\n  in \"/home/rich/src/SPDX-DocFest-20210913-1120/FOSSology/charge-controller-firmware/SPDX2_charge-controller-firmware_1629808633.spdx.xml\", line 10, column 27",
+      "Try parse 'RDF'",
+      "Parse 'RDF' failed with <class 'spdx.parsers.builderexceptions.SPDXValueError'>"
+    },
+    "messages": {
+      "Invalid creator value 'Organization: ' must be Organization, Tool or Person.": 1,
+      "More than one Package checksum defined.": 2,
+      "Package concluded license list must have more than one member": 1
+    }
+  },
+  {
+    "path": "/home/rich/src/SPDX-DocFest-20210913-1120/Canvass Labs/time-1.9/CanvassLabs-time-1.9.spdx.yml",
+    "type": "YAML",
+    "error": "False",
+    "status": "OK",
+    "log": {
+      "Try parse 'JSON'",
+      "Parse 'JSON' failed",
+      "Expecting value: line 1 column 1 (char 0)",
+      "Try parse 'YAML'",
+      "Parsed 'YAML'"
+    },
+    "messages": {
+      "SPDX-2.2": 1,
+      "time-1.9": 1,
+      "SPDXRef-DOCUMENT": 1,
+      "1 packages": 1,
+      "pkg-1: time-1.9(SPDXRef-time-1.9), ver None": 1
+    }
+  },
+  {
+    "path": "/home/rich/src/SPDX-DocFest-20210913-1120/FOSSology/keycloak-15.0.0/SPDX2TV_keycloak-15.0.0.zip_1629810804.spdx",
+    "type": "TV",
+    "error": "True",
+    "status": "Document parsing encountered errors",
+    "log": {
+      "Try parse 'JSON'",
+      "Parse 'JSON' failed",
+      "Expecting value: line 1 column 1 (char 0)",
+      "Try parse 'YAML'",
+      "Parse 'YAML' failed",
+      "mapping values are not allowed here\n  in \"/home/rich/src/SPDX-DocFest-20210913-1120/FOSSology/keycloak-15.0.0/SPDX2TV_keycloak-15.0.0.zip_1629810804.spdx\", line 16, column 14",
+      "Try parse 'RDF'",
+      "Parse 'RDF' failed",
+      "file:///home/rich/src/SPDX-DocFest-20210913-1120/FOSSology/keycloak-15.0.0/SPDX2TV_keycloak-15.0.0.zip_1629810804.spdx:1:0: syntax error",
+      "Try parse 'XML'",
+      "Parse 'XML' failed",
+      "syntax error: line 1, column 0",
+      "Try parse 'TV'",
+      "Document parsing encountered errors"
+    },
+    "messages": {
+      "PackageChecksum must be a single line of text, ": 2,
+      "FileChecksum must be a single line of text starting with 'SHA1:', ": 21300
+    }
+  },
+  {
+    "path": "/home/rich/src/SPDX-DocFest-20210913-1120/FOSSology/keycloak-15.0.0/SPDX2_keycloak-15.0.0.zip_1629810782.spdx.xml",
+    "type": "RDF",
+    "error": "True",
+    "status": "Package::ConcludedLicenses",
+    "log": {
+      "Try parse 'JSON'",
+      "Parse 'JSON' failed",
+      "Expecting value: line 1 column 1 (char 0)",
+      "Try parse 'YAML'",
+      "Parse 'YAML' failed",
+      "mapping values are not allowed here\n  in \"/home/rich/src/SPDX-DocFest-20210913-1120/FOSSology/keycloak-15.0.0/SPDX2_keycloak-15.0.0.zip_1629810782.spdx.xml\", line 10, column 27",
+      "Try parse 'RDF'",
+      "Parse 'RDF' failed with <class 'spdx.parsers.builderexceptions.SPDXValueError'>"
+    },
+    "messages": {
+      "Invalid creator value 'Organization: ' must be Organization, Tool or Person.": 1,
+      "More than one Package checksum defined.": 2,
+      "Package concluded license list must have more than one member": 1
+    }
+  },
+  {
+    "path": "/home/rich/src/SPDX-DocFest-20210913-1120/FOSSology/serve/SPDX2TV_serve_1629808516.spdx",
+    "type": "TV",
+    "error": "True",
+    "status": "Document parsing encountered errors",
+    "log": {
+      "Try parse 'JSON'",
+      "Parse 'JSON' failed",
+      "Expecting value: line 1 column 1 (char 0)",
+      "Try parse 'YAML'",
+      "Parse 'YAML' failed",
+      "mapping values are not allowed here\n  in \"/home/rich/src/SPDX-DocFest-20210913-1120/FOSSology/serve/SPDX2TV_serve_1629808516.spdx\", line 16, column 14",
+      "Try parse 'RDF'",
+      "Parse 'RDF' failed",
+      "file:///home/rich/src/SPDX-DocFest-20210913-1120/FOSSology/serve/SPDX2TV_serve_1629808516.spdx:1:0: syntax error",
+      "Try parse 'XML'",
+      "Parse 'XML' failed",
+      "syntax error: line 1, column 0",
+      "Try parse 'TV'",
+      "Document parsing encountered errors"
+    },
+    "messages": {
+      "PackageChecksum must be a single line of text, ": 2,
+      "FileChecksum must be a single line of text starting with 'SHA1:', ": 18
+    }
+  },
+  {
+    "path": "/home/rich/src/SPDX-DocFest-20210913-1120/FOSSology/serve/SPDX2_serve_1629808498.spdx.xml",
+    "type": "RDF",
+    "error": "True",
+    "status": "Package::ConcludedLicenses",
+    "log": {
+      "Try parse 'JSON'",
+      "Parse 'JSON' failed",
+      "Expecting value: line 1 column 1 (char 0)",
+      "Try parse 'YAML'",
+      "Parse 'YAML' failed",
+      "mapping values are not allowed here\n  in \"/home/rich/src/SPDX-DocFest-20210913-1120/FOSSology/serve/SPDX2_serve_1629808498.spdx.xml\", line 10, column 27",
+      "Try parse 'RDF'",
+      "Parse 'RDF' failed with <class 'spdx.parsers.builderexceptions.SPDXValueError'>"
+    },
+    "messages": {
+      "Invalid creator value 'Organization: ' must be Organization, Tool or Person.": 1,
+      "More than one Package checksum defined.": 2,
+      "Package concluded license list must have more than one member": 1
+    }
+  },
+  {
+    "path": "/home/rich/src/SPDX-DocFest-20210913-1120/FOSSology/time-1.9/SPDX2TV_time-1.9.tar.gz_1629808036.spdx",
+    "type": "TV",
+    "error": "True",
+    "status": "Document parsing encountered errors",
+    "log": {
+      "Try parse 'JSON'",
+      "Parse 'JSON' failed",
+      "Expecting value: line 1 column 1 (char 0)",
+      "Try parse 'YAML'",
+      "Parse 'YAML' failed",
+      "mapping values are not allowed here\n  in \"/home/rich/src/SPDX-DocFest-20210913-1120/FOSSology/time-1.9/SPDX2TV_time-1.9.tar.gz_1629808036.spdx\", line 16, column 14",
+      "Try parse 'RDF'",
+      "Parse 'RDF' failed",
+      "file:///home/rich/src/SPDX-DocFest-20210913-1120/FOSSology/time-1.9/SPDX2TV_time-1.9.tar.gz_1629808036.spdx:1:0: syntax error",
+      "Try parse 'XML'",
+      "Parse 'XML' failed",
+      "syntax error: line 1, column 0",
+      "Try parse 'TV'",
+      "Document parsing encountered errors"
+    },
+    "messages": {
+      "PackageChecksum must be a single line of text, ": 2,
+      "FileChecksum must be a single line of text starting with 'SHA1:', ": 330
+    }
+  },
+  {
+    "path": "/home/rich/src/SPDX-DocFest-20210913-1120/FOSSology/time-1.9/SPDX2_time-1.9.tar.gz_1629807830.spdx.xml",
+    "type": "RDF",
+    "error": "True",
+    "status": "Package::ConcludedLicenses",
+    "log": {
+      "Try parse 'JSON'",
+      "Parse 'JSON' failed",
+      "Expecting value: line 1 column 1 (char 0)",
+      "Try parse 'YAML'",
+      "Parse 'YAML' failed",
+      "mapping values are not allowed here\n  in \"/home/rich/src/SPDX-DocFest-20210913-1120/FOSSology/time-1.9/SPDX2_time-1.9.tar.gz_1629807830.spdx.xml\", line 10, column 27",
+      "Try parse 'RDF'",
+      "Parse 'RDF' failed with <class 'spdx.parsers.builderexceptions.SPDXValueError'>"
+    },
+    "messages": {
+      "Invalid creator value 'Organization: ' must be Organization, Tool or Person.": 1,
+      "More than one Package checksum defined.": 2,
+      "Package concluded license list must have more than one member": 1
+    }
+  },
+  {
+    "path": "/home/rich/src/SPDX-DocFest-20210913-1120/Kubernetes SIG Release/fkautz-serve.spdx",
+    "type": "TV",
+    "error": "True",
+    "status": "Parse 'TV' failed with <class 'spdx.parsers.builderexceptions.OrderError'> on 'File::SPDXID'",
+    "log": {
+      "Try parse 'JSON'",
+      "Parse 'JSON' failed",
+      "Expecting value: line 1 column 1 (char 0)",
+      "Try parse 'YAML'",
+      "Parse 'YAML' failed",
+      "mapping values are not allowed here\n  in \"/home/rich/src/SPDX-DocFest-20210913-1120/Kubernetes SIG Release/fkautz-serve.spdx\", line 6, column 14",
+      "Try parse 'RDF'",
+      "Parse 'RDF' failed",
+      "file:///home/rich/src/SPDX-DocFest-20210913-1120/Kubernetes%20SIG%20Release/fkautz-serve.spdx:1:0: syntax error",
+      "Try parse 'XML'",
+      "Parse 'XML' failed",
+      "syntax error: line 1, column 0",
+      "Try parse 'TV'",
+      "Parse 'TV' failed with <class 'spdx.parsers.builderexceptions.OrderError'>"
+    },
+    "messages": {
+      "FileChecksum must be a single line of text starting with 'SHA1:', ": 18,
+      "File::SPDXID": 1
+    }
+  },
+  {
+    "path": "/home/rich/src/SPDX-DocFest-20210913-1120/Kubernetes SIG Release/hello-world.spdx",
+    "type": "TV",
+    "error": "True",
+    "status": "Parse 'TV' failed with <class 'spdx.parsers.builderexceptions.OrderError'> on 'File::SPDXID'",
+    "log": {
+      "Try parse 'JSON'",
+      "Parse 'JSON' failed",
+      "Expecting value: line 1 column 1 (char 0)",
+      "Try parse 'YAML'",
+      "Parse 'YAML' failed",
+      "mapping values are not allowed here\n  in \"/home/rich/src/SPDX-DocFest-20210913-1120/Kubernetes SIG Release/hello-world.spdx\", line 6, column 14",
+      "Try parse 'RDF'",
+      "Parse 'RDF' failed",
+      "file:///home/rich/src/SPDX-DocFest-20210913-1120/Kubernetes%20SIG%20Release/hello-world.spdx:1:0: syntax error",
+      "Try parse 'XML'",
+      "Parse 'XML' failed",
+      "syntax error: line 1, column 0",
+      "Try parse 'TV'",
+      "Parse 'TV' failed with <class 'spdx.parsers.builderexceptions.OrderError'>"
+    },
+    "messages": {
+      "File::SPDXID": 1
+    }
+  },
+  {
+    "path": "/home/rich/src/SPDX-DocFest-20210913-1120/ModifiedDocs/FOSSology/App-BOM-ination-1.0/SPDX2TV_App-BOM-ination-1.0.tar.gz_1629808252.spdx",
+    "type": "TV",
+    "error": "True",
+    "status": "Document parsing encountered errors",
+    "log": {
+      "Try parse 'JSON'",
+      "Parse 'JSON' failed",
+      "Expecting value: line 1 column 1 (char 0)",
+      "Try parse 'YAML'",
+      "Parse 'YAML' failed",
+      "mapping values are not allowed here\n  in \"/home/rich/src/SPDX-DocFest-20210913-1120/ModifiedDocs/FOSSology/App-BOM-ination-1.0/SPDX2TV_App-BOM-ination-1.0.tar.gz_1629808252.spdx\", line 16, column 14",
+      "Try parse 'RDF'",
+      "Parse 'RDF' failed",
+      "file:///home/rich/src/SPDX-DocFest-20210913-1120/ModifiedDocs/FOSSology/App-BOM-ination-1.0/SPDX2TV_App-BOM-ination-1.0.tar.gz_1629808252.spdx:1:0: syntax error",
+      "Try parse 'XML'",
+      "Parse 'XML' failed",
+      "syntax error: line 1, column 0",
+      "Try parse 'TV'",
+      "Document parsing encountered errors"
+    },
+    "messages": {
+      "PackageChecksum must be a single line of text, ": 2,
+      "FileChecksum must be a single line of text starting with 'SHA1:', ": 110
+    }
+  },
+  {
+    "path": "/home/rich/src/SPDX-DocFest-20210913-1120/ModifiedDocs/FOSSology/time-1.9/SPDX2TV_time-1.9.tar.gz_1629808036.spdx",
+    "type": "TV",
+    "error": "True",
+    "status": "Document parsing encountered errors",
+    "log": {
+      "Try parse 'JSON'",
+      "Parse 'JSON' failed",
+      "Expecting value: line 1 column 1 (char 0)",
+      "Try parse 'YAML'",
+      "Parse 'YAML' failed",
+      "mapping values are not allowed here\n  in \"/home/rich/src/SPDX-DocFest-20210913-1120/ModifiedDocs/FOSSology/time-1.9/SPDX2TV_time-1.9.tar.gz_1629808036.spdx\", line 16, column 14",
+      "Try parse 'RDF'",
+      "Parse 'RDF' failed",
+      "file:///home/rich/src/SPDX-DocFest-20210913-1120/ModifiedDocs/FOSSology/time-1.9/SPDX2TV_time-1.9.tar.gz_1629808036.spdx:1:0: syntax error",
+      "Try parse 'XML'",
+      "Parse 'XML' failed",
+      "syntax error: line 1, column 0",
+      "Try parse 'TV'",
+      "Document parsing encountered errors"
+    },
+    "messages": {
+      "PackageChecksum must be a single line of text, ": 2,
+      "FileChecksum must be a single line of text starting with 'SHA1:', ": 330
+    }
+  },
+  {
+    "path": "/home/rich/src/SPDX-DocFest-20210913-1120/ModifiedDocs/REA_SAG-PM/SAG-PM-SBOM-AppBom.spdx",
+    "type": "TV",
+    "error": "True",
+    "status": "Document parsing encountered errors",
+    "log": {
+      "Try parse 'JSON'",
+      "Parse 'JSON' failed",
+      "Expecting value: line 1 column 1 (char 0)",
+      "Try parse 'YAML'",
+      "Parse 'YAML' failed",
+      "mapping values are not allowed here\n  in \"/home/rich/src/SPDX-DocFest-20210913-1120/ModifiedDocs/REA_SAG-PM/SAG-PM-SBOM-AppBom.spdx\", line 6, column 22",
+      "Try parse 'RDF'",
+      "Parse 'RDF' failed",
+      "file:///home/rich/src/SPDX-DocFest-20210913-1120/ModifiedDocs/REA_SAG-PM/SAG-PM-SBOM-AppBom.spdx:1:0: syntax error",
+      "Try parse 'XML'",
+      "Parse 'XML' failed",
+      "syntax error: line 1, column 0",
+      "Try parse 'TV'",
+      "Document parsing encountered errors"
+    },
+    "messages": {
+      "Invalid DocumentNamespace value dns:softwareassuranceguardian.com, must contain a scheme (e.g. \"https:\") and should not contain the \"#\" delimiter, ": 1,
+      "VerificationCode doesn't match verifcode form, ": 1,
+      "PackageChecksum must be a single line of text, ": 1,
+      "FileChecksum must be a single line of text starting with 'SHA1:', ": 25
+    }
+  },
+  {
+    "path": "/home/rich/src/SPDX-DocFest-20210913-1120/ModifiedDocs/REA_SAG-PM/SAG-PM-time1_9_Source_Tar.spdx",
+    "type": "TV",
+    "error": "True",
+    "status": "Document parsing encountered errors",
+    "log": {
+      "Try parse 'JSON'",
+      "Parse 'JSON' failed",
+      "Expecting value: line 1 column 1 (char 0)",
+      "Try parse 'YAML'",
+      "Parse 'YAML' failed",
+      "mapping values are not allowed here\n  in \"/home/rich/src/SPDX-DocFest-20210913-1120/ModifiedDocs/REA_SAG-PM/SAG-PM-time1_9_Source_Tar.spdx\", line 6, column 22",
+      "Try parse 'RDF'",
+      "Parse 'RDF' failed",
+      "file:///home/rich/src/SPDX-DocFest-20210913-1120/ModifiedDocs/REA_SAG-PM/SAG-PM-time1_9_Source_Tar.spdx:1:0: syntax error",
+      "Try parse 'XML'",
+      "Parse 'XML' failed",
+      "syntax error: line 1, column 0",
+      "Try parse 'TV'",
+      "Document parsing encountered errors"
+    },
+    "messages": {
+      "Invalid DocumentNamespace value dns:softwareassuranceguardian.com, must contain a scheme (e.g. \"https:\") and should not contain the \"#\" delimiter, ": 1,
+      "PackageChecksum must be a single line of text, ": 1,
+      "FileChecksum must be a single line of text starting with 'SHA1:', ": 171
+    }
+  },
+  {
+    "path": "/home/rich/src/SPDX-DocFest-20210913-1120/ModifiedDocs/Canvass Labs/time-1.9/CanvassLabs-time-1.9.spdx.yml",
+    "type": "YAML",
+    "error": "False",
+    "status": "OK",
+    "log": {
+      "Try parse 'JSON'",
+      "Parse 'JSON' failed",
+      "Expecting value: line 1 column 1 (char 0)",
+      "Try parse 'YAML'",
+      "Parsed 'YAML'"
+    },
+    "messages": {
+      "SPDX-2.2": 1,
+      "time-1.9": 1,
+      "SPDXRef-DOCUMENT": 1,
+      "1 packages": 1,
+      "pkg-1: time-1.9(SPDXRef-time-1.9), ver None": 1
+    }
+  },
+  {
+    "path": "/home/rich/src/SPDX-DocFest-20210913-1120/ModifiedDocs/ScanCode/scancode.io/spdxdocfest-time-1.9.spdx",
+    "type": "TV",
+    "error": "True",
+    "status": "Document parsing encountered errors",
+    "log": {
+      "Try parse 'JSON'",
+      "Parse 'JSON' failed",
+      "Expecting value: line 1 column 1 (char 0)",
+      "Try parse 'YAML'",
+      "Parse 'YAML' failed",
+      "while scanning a simple key\n  in \"/home/rich/src/SPDX-DocFest-20210913-1120/ModifiedDocs/ScanCode/scancode.io/spdxdocfest-time-1.9.spdx\", line 8, column 1\ncould not find expected ':'\n  in \"/home/rich/src/SPDX-DocFest-20210913-1120/ModifiedDocs/ScanCode/scancode.io/spdxdocfest-time-1.9.spdx\", line 9, column 1",
+      "Try parse 'RDF'",
+      "Parse 'RDF' failed",
+      "file:///home/rich/src/SPDX-DocFest-20210913-1120/ModifiedDocs/ScanCode/scancode.io/spdxdocfest-time-1.9.spdx:1:1: not well-formed (invalid token)",
+      "Try parse 'XML'",
+      "Parse 'XML' failed",
+      "not well-formed (invalid token): line 1, column 1",
+      "Try parse 'TV'",
+      "Document parsing encountered errors"
+    },
+    "messages": {
+      "Document has no name.": 1,
+      "time: Package spdx_id can not be None.": 1,
+      "File has no SPDX Identifier": 8597
+    }
+  },
+  {
+    "path": "/home/rich/src/SPDX-DocFest-20210913-1120/ModifiedDocs/Source Auditor/App-BOM-ination/SourceAndDependency/AppBomInation-SourceAndDependency.spdx.json",
+    "type": "JSON",
+    "error": "True",
+    "status": "Document parsing encountered errors",
+    "log": {
+      "Try parse 'JSON'",
+      "Document parsing encountered errors"
+    },
+    "messages": {
+      "'None' is not a valid value for PKG_FILES": 1
+    }
+  },
+  {
+    "path": "/home/rich/src/SPDX-DocFest-20210913-1120/ModifiedDocs/Source Auditor/App-BOM-ination/SourceOnly/AppBomInation-SourceOnly.spdx.json",
+    "type": "JSON",
+    "error": "True",
+    "status": "Document parsing encountered errors",
+    "log": {
+      "Try parse 'JSON'",
+      "Document parsing encountered errors"
+    },
+    "messages": {
+      "'None' is not a valid value for PKG_FILES": 1
+    }
+  },
+  {
+    "path": "/home/rich/src/SPDX-DocFest-20210913-1120/ModifiedDocs/Source Auditor/time-v1.9/SourceAuditor-time-1.9.spdx.json",
+    "type": "JSON",
+    "error": "True",
+    "status": "Document parsing encountered errors",
+    "log": {
+      "Try parse 'JSON'",
+      "Document parsing encountered errors"
+    },
+    "messages": {
+      "'None' is not a valid value for PKG_FILES": 1
+    }
+  },
+  {
+    "path": "/home/rich/src/SPDX-DocFest-20210913-1120/ModifiedDocs/Synopsys Black Duck/time-v1.9/SourceAuditor-time-1.9.spdx.json",
+    "type": "JSON",
+    "error": "True",
+    "status": "Document parsing encountered errors",
+    "log": {
+      "Try parse 'JSON'",
+      "Document parsing encountered errors"
+    },
+    "messages": {
+      "'None' is not a valid value for PKG_FILES": 1
+    }
+  },
+  {
+    "path": "/home/rich/src/SPDX-DocFest-20210913-1120/ModifiedDocs/Toshiba/time-1.9/SPDX2TV_time-1.9.tar.gz_1630714917.spdx",
+    "type": "TV",
+    "error": "True",
+    "status": "Document parsing encountered errors",
+    "log": {
+      "Try parse 'JSON'",
+      "Parse 'JSON' failed",
+      "Expecting value: line 1 column 1 (char 0)",
+      "Try parse 'YAML'",
+      "Parse 'YAML' failed",
+      "mapping values are not allowed here\n  in \"/home/rich/src/SPDX-DocFest-20210913-1120/ModifiedDocs/Toshiba/time-1.9/SPDX2TV_time-1.9.tar.gz_1630714917.spdx\", line 16, column 14",
+      "Try parse 'RDF'",
+      "Parse 'RDF' failed",
+      "file:///home/rich/src/SPDX-DocFest-20210913-1120/ModifiedDocs/Toshiba/time-1.9/SPDX2TV_time-1.9.tar.gz_1630714917.spdx:1:0: syntax error",
+      "Try parse 'XML'",
+      "Parse 'XML' failed",
+      "syntax error: line 1, column 0",
+      "Try parse 'TV'",
+      "Document parsing encountered errors"
+    },
+    "messages": {
+      "PackageChecksum must be a single line of text, ": 2,
+      "FileChecksum must be a single line of text starting with 'SHA1:', ": 330
+    }
+  },
+  {
+    "path": "/home/rich/src/SPDX-DocFest-20210913-1120/ModifiedDocs/metaeffekt/time-1.9/time-1.9.tar.gz.spdx.rdf.xml",
+    "type": "RDF",
+    "error": "True",
+    "status": "Document parsing encountered errors",
+    "log": {
+      "Try parse 'JSON'",
+      "Parse 'JSON' failed",
+      "Expecting value: line 1 column 1 (char 0)",
+      "Try parse 'YAML'",
+      "Parse 'YAML' failed",
+      "mapping values are not allowed here\n  in \"/home/rich/src/SPDX-DocFest-20210913-1120/ModifiedDocs/metaeffekt/time-1.9/time-1.9.tar.gz.spdx.rdf.xml\", line 111, column 1507",
+      "Try parse 'RDF'",
+      "Document parsing encountered errors"
+    },
+    "messages": {
+      "Extracted license must have extractedText property": 7
+    }
+  },
+  {
+    "path": "/home/rich/src/SPDX-DocFest-20210913-1120/ModifiedDocs/metaeffekt/time-1.9/time-1.9.tar.gz_concluded-for-binary-distribution.spdx.rdf.xml",
+    "type": "RDF",
+    "error": "True",
+    "status": "Document parsing encountered errors",
+    "log": {
+      "Try parse 'JSON'",
+      "Parse 'JSON' failed",
+      "Expecting value: line 1 column 1 (char 0)",
+      "Try parse 'YAML'",
+      "Parse 'YAML' failed",
+      "mapping values are not allowed here\n  in \"/home/rich/src/SPDX-DocFest-20210913-1120/ModifiedDocs/metaeffekt/time-1.9/time-1.9.tar.gz_concluded-for-binary-distribution.spdx.rdf.xml\", line 116, column 1507",
+      "Try parse 'RDF'",
+      "Document parsing encountered errors"
+    },
+    "messages": {
+      "Extracted license must have extractedText property": 2
+    }
+  },
+  {
+    "path": "/home/rich/src/SPDX-DocFest-20210913-1120/REA_SAG-PM/Microsoft-Powershell-sbom.spdx",
+    "type": "TV",
+    "error": "True",
+    "status": "Document parsing encountered errors",
+    "log": {
+      "Try parse 'JSON'",
+      "Parse 'JSON' failed",
+      "Expecting value: line 1 column 1 (char 0)",
+      "Try parse 'YAML'",
+      "Parse 'YAML' failed",
+      "mapping values are not allowed here\n  in \"/home/rich/src/SPDX-DocFest-20210913-1120/REA_SAG-PM/Microsoft-Powershell-sbom.spdx\", line 6, column 22",
+      "Try parse 'RDF'",
+      "Parse 'RDF' failed",
+      "file:///home/rich/src/SPDX-DocFest-20210913-1120/REA_SAG-PM/Microsoft-Powershell-sbom.spdx:1:0: syntax error",
+      "Try parse 'XML'",
+      "Parse 'XML' failed",
+      "syntax error: line 1, column 0",
+      "Try parse 'TV'",
+      "Document parsing encountered errors"
+    },
+    "messages": {
+      "Invalid DocumentNamespace value dns:softwareassuranceguardian.com, must contain a scheme (e.g. \"https:\") and should not contain the \"#\" delimiter, ": 1,
+      "VerificationCode doesn't match verifcode form, ": 1,
+      "PackageChecksum must be a single line of text, ": 1,
+      "FileChecksum must be a single line of text starting with 'SHA1:', ": 982
+    }
+  },
+  {
+    "path": "/home/rich/src/SPDX-DocFest-20210913-1120/REA_SAG-PM/SAG-PM-SBOM-AppBom.spdx",
+    "type": "TV",
+    "error": "True",
+    "status": "Document parsing encountered errors",
+    "log": {
+      "Try parse 'JSON'",
+      "Parse 'JSON' failed",
+      "Expecting value: line 1 column 1 (char 0)",
+      "Try parse 'YAML'",
+      "Parse 'YAML' failed",
+      "mapping values are not allowed here\n  in \"/home/rich/src/SPDX-DocFest-20210913-1120/REA_SAG-PM/SAG-PM-SBOM-AppBom.spdx\", line 6, column 22",
+      "Try parse 'RDF'",
+      "Parse 'RDF' failed",
+      "file:///home/rich/src/SPDX-DocFest-20210913-1120/REA_SAG-PM/SAG-PM-SBOM-AppBom.spdx:1:0: syntax error",
+      "Try parse 'XML'",
+      "Parse 'XML' failed",
+      "syntax error: line 1, column 0",
+      "Try parse 'TV'",
+      "Document parsing encountered errors"
+    },
+    "messages": {
+      "Invalid DocumentNamespace value dns:softwareassuranceguardian.com, must contain a scheme (e.g. \"https:\") and should not contain the \"#\" delimiter, ": 1,
+      "VerificationCode doesn't match verifcode form, ": 1,
+      "PackageChecksum must be a single line of text, ": 1,
+      "FileChecksum must be a single line of text starting with 'SHA1:', ": 25
+    }
+  },
+  {
+    "path": "/home/rich/src/SPDX-DocFest-20210913-1120/REA_SAG-PM/SAG-PM-SBOM-Time_1_9.spdx",
+    "type": "TV",
+    "error": "True",
+    "status": "Document parsing encountered errors",
+    "log": {
+      "Try parse 'JSON'",
+      "Parse 'JSON' failed",
+      "Expecting value: line 1 column 1 (char 0)",
+      "Try parse 'YAML'",
+      "Parse 'YAML' failed",
+      "mapping values are not allowed here\n  in \"/home/rich/src/SPDX-DocFest-20210913-1120/REA_SAG-PM/SAG-PM-SBOM-Time_1_9.spdx\", line 6, column 22",
+      "Try parse 'RDF'",
+      "Parse 'RDF' failed",
+      "file:///home/rich/src/SPDX-DocFest-20210913-1120/REA_SAG-PM/SAG-PM-SBOM-Time_1_9.spdx:1:0: syntax error",
+      "Try parse 'XML'",
+      "Parse 'XML' failed",
+      "syntax error: line 1, column 0",
+      "Try parse 'TV'",
+      "Document parsing encountered errors"
+    },
+    "messages": {
+      "Invalid DocumentNamespace value dns:softwareassuranceguardian.com, must contain a scheme (e.g. \"https:\") and should not contain the \"#\" delimiter, ": 1,
+      "PackageChecksum must be a single line of text, ": 1,
+      "FileChecksum must be a single line of text starting with 'SHA1:', ": 1
+    }
+  },
+  {
+    "path": "/home/rich/src/SPDX-DocFest-20210913-1120/REA_SAG-PM/SAG-PM-time1_9_Source_Tar.spdx",
+    "type": "TV",
+    "error": "True",
+    "status": "Document parsing encountered errors",
+    "log": {
+      "Try parse 'JSON'",
+      "Parse 'JSON' failed",
+      "Expecting value: line 1 column 1 (char 0)",
+      "Try parse 'YAML'",
+      "Parse 'YAML' failed",
+      "mapping values are not allowed here\n  in \"/home/rich/src/SPDX-DocFest-20210913-1120/REA_SAG-PM/SAG-PM-time1_9_Source_Tar.spdx\", line 6, column 22",
+      "Try parse 'RDF'",
+      "Parse 'RDF' failed",
+      "file:///home/rich/src/SPDX-DocFest-20210913-1120/REA_SAG-PM/SAG-PM-time1_9_Source_Tar.spdx:1:0: syntax error",
+      "Try parse 'XML'",
+      "Parse 'XML' failed",
+      "syntax error: line 1, column 0",
+      "Try parse 'TV'",
+      "Document parsing encountered errors"
+    },
+    "messages": {
+      "Invalid DocumentNamespace value dns:softwareassuranceguardian.com, must contain a scheme (e.g. \"https:\") and should not contain the \"#\" delimiter, ": 1,
+      "PackageChecksum must be a single line of text, ": 1,
+      "FileChecksum must be a single line of text starting with 'SHA1:', ": 171
+    }
+  },
+  {
+    "path": "/home/rich/src/SPDX-DocFest-20210913-1120/SPDX Generator/time-1.9/time.spdx.yml",
+    "type": "YAML",
+    "error": "True",
+    "status": "Document parsing encountered errors",
+    "log": {
+      "Try parse 'JSON'",
+      "Parse 'JSON' failed",
+      "Expecting value: line 1 column 1 (char 0)",
+      "Try parse 'YAML'",
+      "Document parsing encountered errors"
+    },
+    "messages": {
+      "Invalid DocumentNamespace value NOASSERTION, must contain a scheme (e.g. \"https:\") and should not contain the \"#\" delimiter.": 1
+    }
+  },
+  {
+    "path": "/home/rich/src/SPDX-DocFest-20210913-1120/Source Auditor/App-BOM-ination/SourceAndDependency/AppBomInation-SourceAndDependency.spdx",
+    "type": "TV",
+    "error": "True",
+    "status": "Parse 'TV' failed with <class 'spdx.parsers.builderexceptions.OrderError'> on 'File::SPDXID'",
+    "log": {
+      "Try parse 'JSON'",
+      "Parse 'JSON' failed",
+      "Expecting value: line 1 column 1 (char 0)",
+      "Try parse 'YAML'",
+      "Parse 'YAML' failed",
+      "mapping values are not allowed here\n  in \"/home/rich/src/SPDX-DocFest-20210913-1120/Source Auditor/App-BOM-ination/SourceAndDependency/AppBomInation-SourceAndDependency.spdx\", line 8, column 16",
+      "Try parse 'RDF'",
+      "Parse 'RDF' failed",
+      "file:///home/rich/src/SPDX-DocFest-20210913-1120/Source%20Auditor/App-BOM-ination/SourceAndDependency/AppBomInation-SourceAndDependency.spdx:1:0: syntax error",
+      "Try parse 'XML'",
+      "Parse 'XML' failed",
+      "syntax error: line 1, column 0",
+      "Try parse 'TV'",
+      "Parse 'TV' failed with <class 'spdx.parsers.builderexceptions.OrderError'>"
+    },
+    "messages": {
+      "LicenseComments must be free form lext, ": 1,
+      "File::SPDXID": 1
+    }
+  },
+  {
+    "path": "/home/rich/src/SPDX-DocFest-20210913-1120/Source Auditor/App-BOM-ination/SourceAndDependency/AppBomInation-SourceAndDependency.spdx.json",
+    "type": "JSON",
+    "error": "True",
+    "status": "Document parsing encountered errors",
+    "log": {
+      "Try parse 'JSON'",
+      "Document parsing encountered errors"
+    },
+    "messages": {
+      "'None' is not a valid value for PKG_FILES": 1
+    }
+  },
+  {
+    "path": "/home/rich/src/SPDX-DocFest-20210913-1120/Source Auditor/App-BOM-ination/SourceAndDependency/AppBomInation-SourceAndDependency.spdx.rdf.xml",
+    "type": "RDF",
+    "error": "True",
+    "status": "Package::SPDXID",
+    "log": {
+      "Try parse 'JSON'",
+      "Parse 'JSON' failed",
+      "Expecting value: line 1 column 1 (char 0)",
+      "Try parse 'YAML'",
+      "Parse 'YAML' failed",
+      "mapping values are not allowed here\n  in \"/home/rich/src/SPDX-DocFest-20210913-1120/Source Auditor/App-BOM-ination/SourceAndDependency/AppBomInation-SourceAndDependency.spdx.rdf.xml\", line 215, column 57",
+      "Try parse 'RDF'",
+      "Parse 'RDF' failed with <class 'spdx.parsers.builderexceptions.CardinalityError'>"
+    },
+    "messages": {
+      "More than one created defined.": 1,
+      "More than one licenseListVersion defined.": 1,
+      "Package::SPDXID": 1
+    }
+  },
+  {
+    "path": "/home/rich/src/SPDX-DocFest-20210913-1120/Source Auditor/App-BOM-ination/SourceAndDependency/AppBomInation-SourceAndDependency.spdx.yaml",
+    "type": "YAML",
+    "error": "True",
+    "status": "Document parsing encountered errors",
+    "log": {
+      "Try parse 'JSON'",
+      "Parse 'JSON' failed",
+      "Expecting value: line 1 column 1 (char 0)",
+      "Try parse 'YAML'",
+      "Document parsing encountered errors"
+    },
+    "messages": {
+      "'None' is not a valid value for PKG_FILES": 1
+    }
+  },
+  {
+    "path": "/home/rich/src/SPDX-DocFest-20210913-1120/Source Auditor/App-BOM-ination/SourceOnly/AppBomInation-SourceOnly.spdx",
+    "type": "TV",
+    "error": "True",
+    "status": "Parse 'TV' failed with <class 'spdx.parsers.builderexceptions.OrderError'> on 'File::SPDXID'",
+    "log": {
+      "Try parse 'JSON'",
+      "Parse 'JSON' failed",
+      "Expecting value: line 1 column 1 (char 0)",
+      "Try parse 'YAML'",
+      "Parse 'YAML' failed",
+      "mapping values are not allowed here\n  in \"/home/rich/src/SPDX-DocFest-20210913-1120/Source Auditor/App-BOM-ination/SourceOnly/AppBomInation-SourceOnly.spdx\", line 8, column 16",
+      "Try parse 'RDF'",
+      "Parse 'RDF' failed",
+      "file:///home/rich/src/SPDX-DocFest-20210913-1120/Source%20Auditor/App-BOM-ination/SourceOnly/AppBomInation-SourceOnly.spdx:1:0: syntax error",
+      "Try parse 'XML'",
+      "Parse 'XML' failed",
+      "syntax error: line 1, column 0",
+      "Try parse 'TV'",
+      "Parse 'TV' failed with <class 'spdx.parsers.builderexceptions.OrderError'>"
+    },
+    "messages": {
+      "LicenseComments must be free form lext, ": 1,
+      "File::SPDXID": 1
+    }
+  },
+  {
+    "path": "/home/rich/src/SPDX-DocFest-20210913-1120/Source Auditor/App-BOM-ination/SourceOnly/AppBomInation-SourceOnly.spdx.json",
+    "type": "JSON",
+    "error": "True",
+    "status": "Document parsing encountered errors",
+    "log": {
+      "Try parse 'JSON'",
+      "Document parsing encountered errors"
+    },
+    "messages": {
+      "'None' is not a valid value for PKG_FILES": 1
+    }
+  },
+  {
+    "path": "/home/rich/src/SPDX-DocFest-20210913-1120/Source Auditor/App-BOM-ination/SourceOnly/AppBomInation-SourceOnly.spdx.rdf.xml",
+    "type": "RDF",
+    "error": "True",
+    "status": "Package::SPDXID",
+    "log": {
+      "Try parse 'JSON'",
+      "Parse 'JSON' failed",
+      "Expecting value: line 1 column 1 (char 0)",
+      "Try parse 'YAML'",
+      "Parse 'YAML' failed",
+      "mapping values are not allowed here\n  in \"/home/rich/src/SPDX-DocFest-20210913-1120/Source Auditor/App-BOM-ination/SourceOnly/AppBomInation-SourceOnly.spdx.rdf.xml\", line 145, column 43",
+      "Try parse 'RDF'",
+      "Parse 'RDF' failed with <class 'spdx.parsers.builderexceptions.CardinalityError'>"
+    },
+    "messages": {
+      "More than one created defined.": 1,
+      "More than one licenseListVersion defined.": 1,
+      "Package licenseInfoFromFiles must be a license or spdx:none or spdx:noassertion": 1,
+      "Package::SPDXID": 1
+    }
+  },
+  {
+    "path": "/home/rich/src/SPDX-DocFest-20210913-1120/Source Auditor/App-BOM-ination/SourceOnly/AppBomInation-SourceOnly.spdx.yaml",
+    "type": "YAML",
+    "error": "True",
+    "status": "Document parsing encountered errors",
+    "log": {
+      "Try parse 'JSON'",
+      "Parse 'JSON' failed",
+      "Expecting value: line 1 column 1 (char 0)",
+      "Try parse 'YAML'",
+      "Document parsing encountered errors"
+    },
+    "messages": {
+      "'None' is not a valid value for PKG_FILES": 1
+    }
+  },
+  {
+    "path": "/home/rich/src/SPDX-DocFest-20210913-1120/Source Auditor/time-v1.9/SourceAuditor-time-1.9.spdx",
+    "type": "TV",
+    "error": "True",
+    "status": "Parse 'TV' failed with <class 'spdx.parsers.builderexceptions.OrderError'> on 'File::SPDXID'",
+    "log": {
+      "Try parse 'JSON'",
+      "Parse 'JSON' failed",
+      "Expecting value: line 1 column 1 (char 0)",
+      "Try parse 'YAML'",
+      "Parse 'YAML' failed",
+      "mapping values are not allowed here\n  in \"/home/rich/src/SPDX-DocFest-20210913-1120/Source Auditor/time-v1.9/SourceAuditor-time-1.9.spdx\", line 8, column 16",
+      "Try parse 'RDF'",
+      "Parse 'RDF' failed",
+      "file:///home/rich/src/SPDX-DocFest-20210913-1120/Source%20Auditor/time-v1.9/SourceAuditor-time-1.9.spdx:1:0: syntax error",
+      "Try parse 'XML'",
+      "Parse 'XML' failed",
+      "syntax error: line 1, column 0",
+      "Try parse 'TV'",
+      "Parse 'TV' failed with <class 'spdx.parsers.builderexceptions.OrderError'>"
+    },
+    "messages": {
+      "LicenseComments must be free form lext, ": 154,
+      "File::SPDXID": 1
+    }
+  },
+  {
+    "path": "/home/rich/src/SPDX-DocFest-20210913-1120/Source Auditor/time-v1.9/SourceAuditor-time-1.9.spdx.json",
+    "type": "JSON",
+    "error": "True",
+    "status": "Document parsing encountered errors",
+    "log": {
+      "Try parse 'JSON'",
+      "Document parsing encountered errors"
+    },
+    "messages": {
+      "'None' is not a valid value for PKG_FILES": 1
+    }
+  },
+  {
+    "path": "/home/rich/src/SPDX-DocFest-20210913-1120/Source Auditor/time-v1.9/SourceAuditor-time-1.9.spdx.rdf.xml",
+    "type": "RDF",
+    "error": "True",
+    "status": "'NoneType' object has no attribute 'full_name'",
+    "log": {
+      "Try parse 'JSON'",
+      "Parse 'JSON' failed",
+      "Expecting value: line 1 column 1 (char 0)",
+      "Try parse 'YAML'",
+      "Parse 'YAML' failed",
+      "mapping values are not allowed here\n  in \"/home/rich/src/SPDX-DocFest-20210913-1120/Source Auditor/time-v1.9/SourceAuditor-time-1.9.spdx.rdf.xml\", line 11, column 27",
+      "Try parse 'RDF'",
+      "Parse 'RDF' failed",
+      "'NoneType' object has no attribute 'full_name'",
+      "/home/rich/src/spdx-py-parser/.venv/lib/python3.8/site-packages/spdx/document.py +187"
+    },
+    "messages": {
+      "Extracted license must have licenseId property.": 16
+    }
+  },
+  {
+    "path": "/home/rich/src/SPDX-DocFest-20210913-1120/Source Auditor/time-v1.9/SourceAuditor-time-1.9.spdx.yaml",
+    "type": "YAML",
+    "error": "True",
+    "status": "Document parsing encountered errors",
+    "log": {
+      "Try parse 'JSON'",
+      "Parse 'JSON' failed",
+      "Expecting value: line 1 column 1 (char 0)",
+      "Try parse 'YAML'",
+      "Document parsing encountered errors"
+    },
+    "messages": {
+      "'None' is not a valid value for PKG_FILES": 1
+    }
+  },
+  {
+    "path": "/home/rich/src/SPDX-DocFest-20210913-1120/Synopsys Black Duck/time-DefaultDetectVersion.json",
+    "type": "JSON",
+    "error": "True",
+    "status": "'NoneType' object has no attribute 'append'",
+    "log": {
+      "Try parse 'JSON'",
+      "Parse 'JSON' failed",
+      "'NoneType' object has no attribute 'append'",
+      "/home/rich/src/spdx-py-parser/.venv/lib/python3.8/site-packages/spdx/annotation.py +94"
+    },
+    "messages": {
+      "Invalid annotation date value '2021-08-31T13:17:25.991497Z' must be date in ISO 8601 format.": 2,
+      "'None' is not a valid value for ANNOTATION_ID": 2
+    }
+  },
+  {
+    "path": "/home/rich/src/SPDX-DocFest-20210913-1120/Tern/time/spdx_json/tern-time-scancode-spdx.json",
+    "type": "JSON",
+    "error": "True",
+    "status": "Document parsing encountered errors",
+    "log": {
+      "Try parse 'JSON'",
+      "Document parsing encountered errors"
+    },
+    "messages": {
+      "'Tool: tern-9bf447ae8ddff128e1dc22c482b69168c034da3a' is not a valid value for CREATORS_SECTION": 1,
+      "'false' is not a valid value for PKG_FILES_ANALYZED": 121,
+      "'None' is not a valid value for PKG_VERIF_CODE_FIELD": 121,
+      "'None' is not a valid value for PKG_LIC_FRM_FILES_FIELD": 122,
+      "'None' is not a valid value for PKG_FILES": 125,
+      "'true' is not a valid value for PKG_FILES_ANALYZED": 4
+    }
+  },
+  {
+    "path": "/home/rich/src/SPDX-DocFest-20210913-1120/Tern/time/spdx_json/tern-time-spdx.json",
+    "type": "JSON",
+    "error": "True",
+    "status": "Document parsing encountered errors",
+    "log": {
+      "Try parse 'JSON'",
+      "Document parsing encountered errors"
+    },
+    "messages": {
+      "'Tool: tern-9bf447ae8ddff128e1dc22c482b69168c034da3a' is not a valid value for CREATORS_SECTION": 1,
+      "'false' is not a valid value for PKG_FILES_ANALYZED": 124,
+      "'None' is not a valid value for PKG_VERIF_CODE_FIELD": 124,
+      "'None' is not a valid value for PKG_LIC_FRM_FILES_FIELD": 124,
+      "'None' is not a valid value for PKG_FILES": 124
+    }
+  },
+  {
+    "path": "/home/rich/src/SPDX-DocFest-20210913-1120/Tern/time/spdx_tag_value/tern-time-scancode.spdx",
+    "type": "TV",
+    "error": "True",
+    "status": "Parse 'TV' failed with <class 'spdx.parsers.builderexceptions.OrderError'> on 'File::SPDXID'",
+    "log": {
+      "Try parse 'JSON'",
+      "Parse 'JSON' failed",
+      "Expecting value: line 1 column 1 (char 0)",
+      "Try parse 'YAML'",
+      "Parse 'YAML' failed",
+      "mapping values are not allowed here\n  in \"/home/rich/src/SPDX-DocFest-20210913-1120/Tern/time/spdx_tag_value/tern-time-scancode.spdx\", line 7, column 14",
+      "Try parse 'RDF'",
+      "Parse 'RDF' failed",
+      "file:///home/rich/src/SPDX-DocFest-20210913-1120/Tern/time/spdx_tag_value/tern-time-scancode.spdx:1:0: syntax error",
+      "Try parse 'XML'",
+      "Parse 'XML' failed",
+      "syntax error: line 1, column 0",
+      "Try parse 'TV'",
+      "Parse 'TV' failed with <class 'spdx.parsers.builderexceptions.OrderError'>"
+    },
+    "messages": {
+      "File::SPDXID": 1
+    }
+  },
+  {
+    "path": "/home/rich/src/SPDX-DocFest-20210913-1120/Tern/time/spdx_tag_value/tern-time.spdx",
+    "type": "TV",
+    "error": "True",
+    "status": "Parse 'TV' failed with <class 'spdx.parsers.builderexceptions.OrderError'> on 'File::SPDXID'",
+    "log": {
+      "Try parse 'JSON'",
+      "Parse 'JSON' failed",
+      "Expecting value: line 1 column 1 (char 0)",
+      "Try parse 'YAML'",
+      "Parse 'YAML' failed",
+      "mapping values are not allowed here\n  in \"/home/rich/src/SPDX-DocFest-20210913-1120/Tern/time/spdx_tag_value/tern-time.spdx\", line 7, column 14",
+      "Try parse 'RDF'",
+      "Parse 'RDF' failed",
+      "file:///home/rich/src/SPDX-DocFest-20210913-1120/Tern/time/spdx_tag_value/tern-time.spdx:1:0: syntax error",
+      "Try parse 'XML'",
+      "Parse 'XML' failed",
+      "syntax error: line 1, column 0",
+      "Try parse 'TV'",
+      "Parse 'TV' failed with <class 'spdx.parsers.builderexceptions.OrderError'>"
+    },
+    "messages": {
+      "File::SPDXID": 1
+    }
+  },
+  {
+    "path": "/home/rich/src/SPDX-DocFest-20210913-1120/Toshiba/time-1.9/SPDX2TV_time-1.9.tar.gz_1630714917.spdx",
+    "type": "TV",
+    "error": "True",
+    "status": "Document parsing encountered errors",
+    "log": {
+      "Try parse 'JSON'",
+      "Parse 'JSON' failed",
+      "Expecting value: line 1 column 1 (char 0)",
+      "Try parse 'YAML'",
+      "Parse 'YAML' failed",
+      "mapping values are not allowed here\n  in \"/home/rich/src/SPDX-DocFest-20210913-1120/Toshiba/time-1.9/SPDX2TV_time-1.9.tar.gz_1630714917.spdx\", line 16, column 14",
+      "Try parse 'RDF'",
+      "Parse 'RDF' failed",
+      "file:///home/rich/src/SPDX-DocFest-20210913-1120/Toshiba/time-1.9/SPDX2TV_time-1.9.tar.gz_1630714917.spdx:1:0: syntax error",
+      "Try parse 'XML'",
+      "Parse 'XML' failed",
+      "syntax error: line 1, column 0",
+      "Try parse 'TV'",
+      "Document parsing encountered errors"
+    },
+    "messages": {
+      "PackageChecksum must be a single line of text, ": 2,
+      "FileChecksum must be a single line of text starting with 'SHA1:', ": 330
+    }
+  },
+  {
+    "path": "/home/rich/src/SPDX-DocFest-20210913-1120/Toshiba/time-1.9/SPDX2_time-1.9.tar.gz_1630714807-spdx.rdf",
+    "type": "RDF",
+    "error": "True",
+    "status": "Package::ConcludedLicenses",
+    "log": {
+      "Try parse 'JSON'",
+      "Parse 'JSON' failed",
+      "Expecting value: line 1 column 1 (char 0)",
+      "Try parse 'YAML'",
+      "Parse 'YAML' failed",
+      "mapping values are not allowed here\n  in \"/home/rich/src/SPDX-DocFest-20210913-1120/Toshiba/time-1.9/SPDX2_time-1.9.tar.gz_1630714807-spdx.rdf\", line 10, column 27",
+      "Try parse 'RDF'",
+      "Parse 'RDF' failed with <class 'spdx.parsers.builderexceptions.SPDXValueError'>"
+    },
+    "messages": {
+      "Invalid creator value 'Organization: ' must be Organization, Tool or Person.": 1,
+      "More than one Package checksum defined.": 2,
+      "Package concluded license list must have more than one member": 1,
+      "Package::ConcludedLicenses": 1
+    }
+  },
+  {
+    "path": "/home/rich/src/SPDX-DocFest-20210913-1120/Zephyr West SPDX/libre-solar-ccf/spdx/app.spdx",
+    "type": "TV",
+    "error": "True",
+    "status": "Document parsing encountered errors",
+    "log": {
+      "Try parse 'JSON'",
+      "Parse 'JSON' failed",
+      "Expecting value: line 1 column 1 (char 0)",
+      "Try parse 'YAML'",
+      "Parse 'YAML' failed",
+      "mapping values are not allowed here\n  in \"/home/rich/src/SPDX-DocFest-20210913-1120/Zephyr West SPDX/libre-solar-ccf/spdx/app.spdx\", line 6, column 14",
+      "Try parse 'RDF'",
+      "Parse 'RDF' failed",
+      "file:///home/rich/src/SPDX-DocFest-20210913-1120/Zephyr%20West%20SPDX/libre-solar-ccf/spdx/app.spdx:1:0: syntax error",
+      "Try parse 'XML'",
+      "Parse 'XML' failed",
+      "syntax error: line 1, column 0",
+      "Try parse 'TV'",
+      "Document parsing encountered errors"
+    },
+    "messages": {
+      "PackageComment must be free form text, ": 1
+    }
+  },
+  {
+    "path": "/home/rich/src/SPDX-DocFest-20210913-1120/Zephyr West SPDX/libre-solar-ccf/spdx/build.spdx",
+    "type": "TV",
+    "error": "True",
+    "status": "Parse 'TV' failed with <class 'spdx.parsers.builderexceptions.OrderError'> on 'File::SPDXID'",
+    "log": {
+      "Try parse 'JSON'",
+      "Parse 'JSON' failed",
+      "Expecting value: line 1 column 1 (char 0)",
+      "Try parse 'YAML'",
+      "Parse 'YAML' failed",
+      "mapping values are not allowed here\n  in \"/home/rich/src/SPDX-DocFest-20210913-1120/Zephyr West SPDX/libre-solar-ccf/spdx/build.spdx\", line 6, column 14",
+      "Try parse 'RDF'",
+      "Parse 'RDF' failed",
+      "file:///home/rich/src/SPDX-DocFest-20210913-1120/Zephyr%20West%20SPDX/libre-solar-ccf/spdx/build.spdx:1:0: syntax error",
+      "Try parse 'XML'",
+      "Parse 'XML' failed",
+      "syntax error: line 1, column 0",
+      "Try parse 'TV'",
+      "Parse 'TV' failed with <class 'spdx.parsers.builderexceptions.OrderError'>"
+    },
+    "messages": {
+      "FileChecksum must be a single line of text starting with 'SHA1:', ": 4,
+      "File::SPDXID": 1
+    }
+  },
+  {
+    "path": "/home/rich/src/SPDX-DocFest-20210913-1120/Zephyr West SPDX/libre-solar-ccf/spdx/zephyr.spdx",
+    "type": "TV",
+    "error": "True",
+    "status": "Document parsing encountered errors",
+    "log": {
+      "Try parse 'JSON'",
+      "Parse 'JSON' failed",
+      "Expecting value: line 1 column 1 (char 0)",
+      "Try parse 'YAML'",
+      "Parse 'YAML' failed",
+      "mapping values are not allowed here\n  in \"/home/rich/src/SPDX-DocFest-20210913-1120/Zephyr West SPDX/libre-solar-ccf/spdx/zephyr.spdx\", line 6, column 14",
+      "Try parse 'RDF'",
+      "Parse 'RDF' failed",
+      "file:///home/rich/src/SPDX-DocFest-20210913-1120/Zephyr%20West%20SPDX/libre-solar-ccf/spdx/zephyr.spdx:1:0: syntax error",
+      "Try parse 'XML'",
+      "Parse 'XML' failed",
+      "syntax error: line 1, column 0",
+      "Try parse 'TV'",
+      "Document parsing encountered errors"
+    },
+    "messages": {
+      "FileChecksum must be a single line of text starting with 'SHA1:', ": 125
+    }
+  },
+  {
+    "path": "/home/rich/src/SPDX-DocFest-20210913-1120/Zephyr West SPDX/libre-solar-ccf/spdx-with-headers/app.spdx",
+    "type": "TV",
+    "error": "True",
+    "status": "Document parsing encountered errors",
+    "log": {
+      "Try parse 'JSON'",
+      "Parse 'JSON' failed",
+      "Expecting value: line 1 column 1 (char 0)",
+      "Try parse 'YAML'",
+      "Parse 'YAML' failed",
+      "mapping values are not allowed here\n  in \"/home/rich/src/SPDX-DocFest-20210913-1120/Zephyr West SPDX/libre-solar-ccf/spdx-with-headers/app.spdx\", line 6, column 14",
+      "Try parse 'RDF'",
+      "Parse 'RDF' failed",
+      "file:///home/rich/src/SPDX-DocFest-20210913-1120/Zephyr%20West%20SPDX/libre-solar-ccf/spdx-with-headers/app.spdx:1:0: syntax error",
+      "Try parse 'XML'",
+      "Parse 'XML' failed",
+      "syntax error: line 1, column 0",
+      "Try parse 'TV'",
+      "Document parsing encountered errors"
+    },
+    "messages": {
+      "PackageComment must be free form text, ": 1
+    }
+  },
+  {
+    "path": "/home/rich/src/SPDX-DocFest-20210913-1120/Zephyr West SPDX/libre-solar-ccf/spdx-with-headers/build.spdx",
+    "type": "TV",
+    "error": "True",
+    "status": "Parse 'TV' failed with <class 'spdx.parsers.builderexceptions.OrderError'> on 'File::SPDXID'",
+    "log": {
+      "Try parse 'JSON'",
+      "Parse 'JSON' failed",
+      "Expecting value: line 1 column 1 (char 0)",
+      "Try parse 'YAML'",
+      "Parse 'YAML' failed",
+      "mapping values are not allowed here\n  in \"/home/rich/src/SPDX-DocFest-20210913-1120/Zephyr West SPDX/libre-solar-ccf/spdx-with-headers/build.spdx\", line 6, column 14",
+      "Try parse 'RDF'",
+      "Parse 'RDF' failed",
+      "file:///home/rich/src/SPDX-DocFest-20210913-1120/Zephyr%20West%20SPDX/libre-solar-ccf/spdx-with-headers/build.spdx:1:0: syntax error",
+      "Try parse 'XML'",
+      "Parse 'XML' failed",
+      "syntax error: line 1, column 0",
+      "Try parse 'TV'",
+      "Parse 'TV' failed with <class 'spdx.parsers.builderexceptions.OrderError'>"
+    },
+    "messages": {
+      "FileChecksum must be a single line of text starting with 'SHA1:', ": 32,
+      "File::SPDXID": 1
+    }
+  },
+  {
+    "path": "/home/rich/src/SPDX-DocFest-20210913-1120/Zephyr West SPDX/libre-solar-ccf/spdx-with-headers/sdk.spdx",
+    "type": "TV",
+    "error": "True",
+    "status": "Document parsing encountered errors",
+    "log": {
+      "Try parse 'JSON'",
+      "Parse 'JSON' failed",
+      "Expecting value: line 1 column 1 (char 0)",
+      "Try parse 'YAML'",
+      "Parse 'YAML' failed",
+      "mapping values are not allowed here\n  in \"/home/rich/src/SPDX-DocFest-20210913-1120/Zephyr West SPDX/libre-solar-ccf/spdx-with-headers/sdk.spdx\", line 6, column 14",
+      "Try parse 'RDF'",
+      "Parse 'RDF' failed",
+      "file:///home/rich/src/SPDX-DocFest-20210913-1120/Zephyr%20West%20SPDX/libre-solar-ccf/spdx-with-headers/sdk.spdx:1:0: syntax error",
+      "Try parse 'XML'",
+      "Parse 'XML' failed",
+      "syntax error: line 1, column 0",
+      "Try parse 'TV'",
+      "Document parsing encountered errors"
+    },
+    "messages": {
+      "FileChecksum must be a single line of text starting with 'SHA1:', ": 48
+    }
+  },
+  {
+    "path": "/home/rich/src/SPDX-DocFest-20210913-1120/Zephyr West SPDX/libre-solar-ccf/spdx-with-headers/zephyr.spdx",
+    "type": "TV",
+    "error": "True",
+    "status": "Document parsing encountered errors",
+    "log": {
+      "Try parse 'JSON'",
+      "Parse 'JSON' failed",
+      "Expecting value: line 1 column 1 (char 0)",
+      "Try parse 'YAML'",
+      "Parse 'YAML' failed",
+      "mapping values are not allowed here\n  in \"/home/rich/src/SPDX-DocFest-20210913-1120/Zephyr West SPDX/libre-solar-ccf/spdx-with-headers/zephyr.spdx\", line 6, column 14",
+      "Try parse 'RDF'",
+      "Parse 'RDF' failed",
+      "file:///home/rich/src/SPDX-DocFest-20210913-1120/Zephyr%20West%20SPDX/libre-solar-ccf/spdx-with-headers/zephyr.spdx:1:0: syntax error",
+      "Try parse 'XML'",
+      "Parse 'XML' failed",
+      "syntax error: line 1, column 0",
+      "Try parse 'TV'",
+      "Document parsing encountered errors"
+    },
+    "messages": {
+      "FileChecksum must be a single line of text starting with 'SHA1:', ": 425
+    }
+  },
+  {
+    "path": "/home/rich/src/SPDX-DocFest-20210913-1120/Zephyr West SPDX/zephyr-hello-world/qemu/app.spdx",
+    "type": "TV",
+    "error": "True",
+    "status": "Document parsing encountered errors",
+    "log": {
+      "Try parse 'JSON'",
+      "Parse 'JSON' failed",
+      "Expecting value: line 1 column 1 (char 0)",
+      "Try parse 'YAML'",
+      "Parse 'YAML' failed",
+      "mapping values are not allowed here\n  in \"/home/rich/src/SPDX-DocFest-20210913-1120/Zephyr West SPDX/zephyr-hello-world/qemu/app.spdx\", line 6, column 14",
+      "Try parse 'RDF'",
+      "Parse 'RDF' failed",
+      "file:///home/rich/src/SPDX-DocFest-20210913-1120/Zephyr%20West%20SPDX/zephyr-hello-world/qemu/app.spdx:1:0: syntax error",
+      "Try parse 'XML'",
+      "Parse 'XML' failed",
+      "syntax error: line 1, column 0",
+      "Try parse 'TV'",
+      "Document parsing encountered errors"
+    },
+    "messages": {
+      "FileChecksum must be a single line of text starting with 'SHA1:', ": 1
+    }
+  },
+  {
+    "path": "/home/rich/src/SPDX-DocFest-20210913-1120/Zephyr West SPDX/zephyr-hello-world/qemu/build.spdx",
+    "type": "TV",
+    "error": "True",
+    "status": "Parse 'TV' failed with <class 'spdx.parsers.builderexceptions.OrderError'> on 'File::SPDXID'",
+    "log": {
+      "Try parse 'JSON'",
+      "Parse 'JSON' failed",
+      "Expecting value: line 1 column 1 (char 0)",
+      "Try parse 'YAML'",
+      "Parse 'YAML' failed",
+      "mapping values are not allowed here\n  in \"/home/rich/src/SPDX-DocFest-20210913-1120/Zephyr West SPDX/zephyr-hello-world/qemu/build.spdx\", line 6, column 14",
+      "Try parse 'RDF'",
+      "Parse 'RDF' failed",
+      "file:///home/rich/src/SPDX-DocFest-20210913-1120/Zephyr%20West%20SPDX/zephyr-hello-world/qemu/build.spdx:1:0: syntax error",
+      "Try parse 'XML'",
+      "Parse 'XML' failed",
+      "syntax error: line 1, column 0",
+      "Try parse 'TV'",
+      "Parse 'TV' failed with <class 'spdx.parsers.builderexceptions.OrderError'>"
+    },
+    "messages": {
+      "FileChecksum must be a single line of text starting with 'SHA1:', ": 3,
+      "File::SPDXID": 1
+    }
+  },
+  {
+    "path": "/home/rich/src/SPDX-DocFest-20210913-1120/Zephyr West SPDX/zephyr-hello-world/qemu/zephyr.spdx",
+    "type": "TV",
+    "error": "True",
+    "status": "Document parsing encountered errors",
+    "log": {
+      "Try parse 'JSON'",
+      "Parse 'JSON' failed",
+      "Expecting value: line 1 column 1 (char 0)",
+      "Try parse 'YAML'",
+      "Parse 'YAML' failed",
+      "mapping values are not allowed here\n  in \"/home/rich/src/SPDX-DocFest-20210913-1120/Zephyr West SPDX/zephyr-hello-world/qemu/zephyr.spdx\", line 6, column 14",
+      "Try parse 'RDF'",
+      "Parse 'RDF' failed",
+      "file:///home/rich/src/SPDX-DocFest-20210913-1120/Zephyr%20West%20SPDX/zephyr-hello-world/qemu/zephyr.spdx:1:0: syntax error",
+      "Try parse 'XML'",
+      "Parse 'XML' failed",
+      "syntax error: line 1, column 0",
+      "Try parse 'TV'",
+      "Document parsing encountered errors"
+    },
+    "messages": {
+      "FileChecksum must be a single line of text starting with 'SHA1:', ": 89
+    }
+  },
+  {
+    "path": "/home/rich/src/SPDX-DocFest-20210913-1120/Zephyr West SPDX/zephyr-hello-world/reel_board_v2/spdx/app.spdx",
+    "type": "TV",
+    "error": "True",
+    "status": "Document parsing encountered errors",
+    "log": {
+      "Try parse 'JSON'",
+      "Parse 'JSON' failed",
+      "Expecting value: line 1 column 1 (char 0)",
+      "Try parse 'YAML'",
+      "Parse 'YAML' failed",
+      "mapping values are not allowed here\n  in \"/home/rich/src/SPDX-DocFest-20210913-1120/Zephyr West SPDX/zephyr-hello-world/reel_board_v2/spdx/app.spdx\", line 6, column 14",
+      "Try parse 'RDF'",
+      "Parse 'RDF' failed",
+      "file:///home/rich/src/SPDX-DocFest-20210913-1120/Zephyr%20West%20SPDX/zephyr-hello-world/reel_board_v2/spdx/app.spdx:1:0: syntax error",
+      "Try parse 'XML'",
+      "Parse 'XML' failed",
+      "syntax error: line 1, column 0",
+      "Try parse 'TV'",
+      "Document parsing encountered errors"
+    },
+    "messages": {
+      "FileChecksum must be a single line of text starting with 'SHA1:', ": 1
+    }
+  },
+  {
+    "path": "/home/rich/src/SPDX-DocFest-20210913-1120/Zephyr West SPDX/zephyr-hello-world/reel_board_v2/spdx/build.spdx",
+    "type": "TV",
+    "error": "True",
+    "status": "Parse 'TV' failed with <class 'spdx.parsers.builderexceptions.OrderError'> on 'File::SPDXID'",
+    "log": {
+      "Try parse 'JSON'",
+      "Parse 'JSON' failed",
+      "Expecting value: line 1 column 1 (char 0)",
+      "Try parse 'YAML'",
+      "Parse 'YAML' failed",
+      "mapping values are not allowed here\n  in \"/home/rich/src/SPDX-DocFest-20210913-1120/Zephyr West SPDX/zephyr-hello-world/reel_board_v2/spdx/build.spdx\", line 6, column 14",
+      "Try parse 'RDF'",
+      "Parse 'RDF' failed",
+      "file:///home/rich/src/SPDX-DocFest-20210913-1120/Zephyr%20West%20SPDX/zephyr-hello-world/reel_board_v2/spdx/build.spdx:1:0: syntax error",
+      "Try parse 'XML'",
+      "Parse 'XML' failed",
+      "syntax error: line 1, column 0",
+      "Try parse 'TV'",
+      "Parse 'TV' failed with <class 'spdx.parsers.builderexceptions.OrderError'>"
+    },
+    "messages": {
+      "FileChecksum must be a single line of text starting with 'SHA1:', ": 4,
+      "File::SPDXID": 1
+    }
+  },
+  {
+    "path": "/home/rich/src/SPDX-DocFest-20210913-1120/Zephyr West SPDX/zephyr-hello-world/reel_board_v2/spdx/zephyr.spdx",
+    "type": "TV",
+    "error": "True",
+    "status": "Document parsing encountered errors",
+    "log": {
+      "Try parse 'JSON'",
+      "Parse 'JSON' failed",
+      "Expecting value: line 1 column 1 (char 0)",
+      "Try parse 'YAML'",
+      "Parse 'YAML' failed",
+      "mapping values are not allowed here\n  in \"/home/rich/src/SPDX-DocFest-20210913-1120/Zephyr West SPDX/zephyr-hello-world/reel_board_v2/spdx/zephyr.spdx\", line 6, column 14",
+      "Try parse 'RDF'",
+      "Parse 'RDF' failed",
+      "file:///home/rich/src/SPDX-DocFest-20210913-1120/Zephyr%20West%20SPDX/zephyr-hello-world/reel_board_v2/spdx/zephyr.spdx:1:0: syntax error",
+      "Try parse 'XML'",
+      "Parse 'XML' failed",
+      "syntax error: line 1, column 0",
+      "Try parse 'TV'",
+      "Document parsing encountered errors"
+    },
+    "messages": {
+      "FileChecksum must be a single line of text starting with 'SHA1:', ": 113
+    }
+  },
+  {
+    "path": "/home/rich/src/SPDX-DocFest-20210913-1120/Zephyr West SPDX/zephyr-hello-world/reel_board_v2/spdx-with-headers/app.spdx",
+    "type": "TV",
+    "error": "True",
+    "status": "Document parsing encountered errors",
+    "log": {
+      "Try parse 'JSON'",
+      "Parse 'JSON' failed",
+      "Expecting value: line 1 column 1 (char 0)",
+      "Try parse 'YAML'",
+      "Parse 'YAML' failed",
+      "mapping values are not allowed here\n  in \"/home/rich/src/SPDX-DocFest-20210913-1120/Zephyr West SPDX/zephyr-hello-world/reel_board_v2/spdx-with-headers/app.spdx\", line 6, column 14",
+      "Try parse 'RDF'",
+      "Parse 'RDF' failed",
+      "file:///home/rich/src/SPDX-DocFest-20210913-1120/Zephyr%20West%20SPDX/zephyr-hello-world/reel_board_v2/spdx-with-headers/app.spdx:1:0: syntax error",
+      "Try parse 'XML'",
+      "Parse 'XML' failed",
+      "syntax error: line 1, column 0",
+      "Try parse 'TV'",
+      "Document parsing encountered errors"
+    },
+    "messages": {
+      "FileChecksum must be a single line of text starting with 'SHA1:', ": 1
+    }
+  },
+  {
+    "path": "/home/rich/src/SPDX-DocFest-20210913-1120/Zephyr West SPDX/zephyr-hello-world/reel_board_v2/spdx-with-headers/build.spdx",
+    "type": "TV",
+    "error": "True",
+    "status": "Parse 'TV' failed with <class 'spdx.parsers.builderexceptions.OrderError'> on 'File::SPDXID'",
+    "log": {
+      "Try parse 'JSON'",
+      "Parse 'JSON' failed",
+      "Expecting value: line 1 column 1 (char 0)",
+      "Try parse 'YAML'",
+      "Parse 'YAML' failed",
+      "mapping values are not allowed here\n  in \"/home/rich/src/SPDX-DocFest-20210913-1120/Zephyr West SPDX/zephyr-hello-world/reel_board_v2/spdx-with-headers/build.spdx\", line 6, column 14",
+      "Try parse 'RDF'",
+      "Parse 'RDF' failed",
+      "file:///home/rich/src/SPDX-DocFest-20210913-1120/Zephyr%20West%20SPDX/zephyr-hello-world/reel_board_v2/spdx-with-headers/build.spdx:1:0: syntax error",
+      "Try parse 'XML'",
+      "Parse 'XML' failed",
+      "syntax error: line 1, column 0",
+      "Try parse 'TV'",
+      "Parse 'TV' failed with <class 'spdx.parsers.builderexceptions.OrderError'>"
+    },
+    "messages": {
+      "FileChecksum must be a single line of text starting with 'SHA1:', ": 26,
+      "File::SPDXID": 1
+    }
+  },
+  {
+    "path": "/home/rich/src/SPDX-DocFest-20210913-1120/Zephyr West SPDX/zephyr-hello-world/reel_board_v2/spdx-with-headers/sdk.spdx",
+    "type": "TV",
+    "error": "True",
+    "status": "Document parsing encountered errors",
+    "log": {
+      "Try parse 'JSON'",
+      "Parse 'JSON' failed",
+      "Expecting value: line 1 column 1 (char 0)",
+      "Try parse 'YAML'",
+      "Parse 'YAML' failed",
+      "mapping values are not allowed here\n  in \"/home/rich/src/SPDX-DocFest-20210913-1120/Zephyr West SPDX/zephyr-hello-world/reel_board_v2/spdx-with-headers/sdk.spdx\", line 6, column 14",
+      "Try parse 'RDF'",
+      "Parse 'RDF' failed",
+      "file:///home/rich/src/SPDX-DocFest-20210913-1120/Zephyr%20West%20SPDX/zephyr-hello-world/reel_board_v2/spdx-with-headers/sdk.spdx:1:0: syntax error",
+      "Try parse 'XML'",
+      "Parse 'XML' failed",
+      "syntax error: line 1, column 0",
+      "Try parse 'TV'",
+      "Document parsing encountered errors"
+    },
+    "messages": {
+      "FileChecksum must be a single line of text starting with 'SHA1:', ": 2
+    }
+  },
+  {
+    "path": "/home/rich/src/SPDX-DocFest-20210913-1120/Zephyr West SPDX/zephyr-hello-world/reel_board_v2/spdx-with-headers/zephyr.spdx",
+    "type": "TV",
+    "error": "True",
+    "status": "Document parsing encountered errors",
+    "log": {
+      "Try parse 'JSON'",
+      "Parse 'JSON' failed",
+      "Expecting value: line 1 column 1 (char 0)",
+      "Try parse 'YAML'",
+      "Parse 'YAML' failed",
+      "mapping values are not allowed here\n  in \"/home/rich/src/SPDX-DocFest-20210913-1120/Zephyr West SPDX/zephyr-hello-world/reel_board_v2/spdx-with-headers/zephyr.spdx\", line 6, column 14",
+      "Try parse 'RDF'",
+      "Parse 'RDF' failed",
+      "file:///home/rich/src/SPDX-DocFest-20210913-1120/Zephyr%20West%20SPDX/zephyr-hello-world/reel_board_v2/spdx-with-headers/zephyr.spdx:1:0: syntax error",
+      "Try parse 'XML'",
+      "Parse 'XML' failed",
+      "syntax error: line 1, column 0",
+      "Try parse 'TV'",
+      "Document parsing encountered errors"
+    },
+    "messages": {
+      "FileChecksum must be a single line of text starting with 'SHA1:', ": 351
+    }
+  },
+  {
+    "path": "/home/rich/src/SPDX-DocFest-20210913-1120/metaeffekt/time-1.9/time-1.9.tar.gz.spdx.xml",
+    "type": "RDF",
+    "error": "True",
+    "status": "Document parsing encountered errors",
+    "log": {
+      "Try parse 'JSON'",
+      "Parse 'JSON' failed",
+      "Expecting value: line 1 column 1 (char 0)",
+      "Try parse 'YAML'",
+      "Parse 'YAML' failed",
+      "mapping values are not allowed here\n  in \"/home/rich/src/SPDX-DocFest-20210913-1120/metaeffekt/time-1.9/time-1.9.tar.gz.spdx.xml\", line 111, column 1507",
+      "Try parse 'RDF'",
+      "Document parsing encountered errors"
+    },
+    "messages": {
+      "Extracted license must have extractedText property": 7
+    }
+  },
+  {
+    "path": "/home/rich/src/SPDX-DocFest-20210913-1120/metaeffekt/time-1.9/time-1.9.tar.gz_concluded-for-binary-distribution.spdx.xml",
+    "type": "RDF",
+    "error": "True",
+    "status": "Document parsing encountered errors",
+    "log": {
+      "Try parse 'JSON'",
+      "Parse 'JSON' failed",
+      "Expecting value: line 1 column 1 (char 0)",
+      "Try parse 'YAML'",
+      "Parse 'YAML' failed",
+      "mapping values are not allowed here\n  in \"/home/rich/src/SPDX-DocFest-20210913-1120/metaeffekt/time-1.9/time-1.9.tar.gz_concluded-for-binary-distribution.spdx.xml\", line 116, column 1507",
+      "Try parse 'RDF'",
+      "Document parsing encountered errors"
+    },
+    "messages": {
+      "Extracted license must have extractedText property": 2
+    }
+  }
+]
