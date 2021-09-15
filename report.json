@@ -71,7 +71,7 @@
     "path": "/home/rich/src/SPDX-DocFest-20210913-1120/FOSSology/App-BOM-ination-1.0/SPDX2_App-BOM-ination-1.0.tar.gz_1629808234.spdx.xml",
     "type": "RDF",
     "error": "True",
-    "status": "Package::ConcludedLicenses",
+    "status": "Parse 'RDF' failed with <class 'spdx.parsers.builderexceptions.SPDXValueError' on 'Package::ConcludedLicenses' or 'Document::Creator'",
     "log": [
       "Try parse 'JSON'",
       "Parse 'JSON' failed",
@@ -118,7 +118,7 @@
     "path": "/home/rich/src/SPDX-DocFest-20210913-1120/FOSSology/charge-controller-firmware/SPDX2_charge-controller-firmware_1629808633.spdx.xml",
     "type": "RDF",
     "error": "True",
-    "status": "Package::ConcludedLicenses",
+    "status": "Parse 'RDF' failed with <class 'spdx.parsers.builderexceptions.SPDXValueError' on 'Package::ConcludedLicenses' or 'Document::Creator'",
     "log": [
       "Try parse 'JSON'",
       "Parse 'JSON' failed",
@@ -185,7 +185,7 @@
     "path": "/home/rich/src/SPDX-DocFest-20210913-1120/FOSSology/keycloak-15.0.0/SPDX2_keycloak-15.0.0.zip_1629810782.spdx.xml",
     "type": "RDF",
     "error": "True",
-    "status": "Package::ConcludedLicenses",
+    "status": "Parse 'RDF' failed with <class 'spdx.parsers.builderexceptions.SPDXValueError' on 'Package::ConcludedLicenses' or 'Document::Creator'",
     "log": [
       "Try parse 'JSON'",
       "Parse 'JSON' failed",
@@ -232,7 +232,7 @@
     "path": "/home/rich/src/SPDX-DocFest-20210913-1120/FOSSology/serve/SPDX2_serve_1629808498.spdx.xml",
     "type": "RDF",
     "error": "True",
-    "status": "Package::ConcludedLicenses",
+    "status": "Parse 'RDF' failed with <class 'spdx.parsers.builderexceptions.SPDXValueError' on 'Package::ConcludedLicenses' or 'Document::Creator'",
     "log": [
       "Try parse 'JSON'",
       "Parse 'JSON' failed",
@@ -279,7 +279,7 @@
     "path": "/home/rich/src/SPDX-DocFest-20210913-1120/FOSSology/time-1.9/SPDX2_time-1.9.tar.gz_1629807830.spdx.xml",
     "type": "RDF",
     "error": "True",
-    "status": "Package::ConcludedLicenses",
+    "status": "Parse 'RDF' failed with <class 'spdx.parsers.builderexceptions.SPDXValueError' on 'Package::ConcludedLicenses' or 'Document::Creator'",
     "log": [
       "Try parse 'JSON'",
       "Parse 'JSON' failed",
@@ -786,7 +786,7 @@
     "path": "/home/rich/src/SPDX-DocFest-20210913-1120/Source Auditor/App-BOM-ination/SourceAndDependency/AppBomInation-SourceAndDependency.spdx.rdf.xml",
     "type": "RDF",
     "error": "True",
-    "status": "Package::SPDXID",
+    "status": "Parse 'RDF' failed with <class 'spdx.parsers.builderexceptions.CardinalityError' on 'created' or 'licenseListVersion'",
     "log": [
       "Try parse 'JSON'",
       "Parse 'JSON' failed",
@@ -862,7 +862,7 @@
     "path": "/home/rich/src/SPDX-DocFest-20210913-1120/Source Auditor/App-BOM-ination/SourceOnly/AppBomInation-SourceOnly.spdx.rdf.xml",
     "type": "RDF",
     "error": "True",
-    "status": "Package::SPDXID",
+    "status": "Parse 'RDF' failed with <class 'spdx.parsers.builderexceptions.CardinalityError' on 'created' or 'licenseListVersion'",
     "log": [
       "Try parse 'JSON'",
       "Parse 'JSON' failed",
@@ -1103,7 +1103,7 @@
     "path": "/home/rich/src/SPDX-DocFest-20210913-1120/Toshiba/time-1.9/SPDX2_time-1.9.tar.gz_1630714807-spdx.rdf",
     "type": "RDF",
     "error": "True",
-    "status": "Package::ConcludedLicenses",
+    "status": "Parse 'RDF' failed with <class 'spdx.parsers.builderexceptions.SPDXValueError' on 'Package::ConcludedLicenses' or 'Document::Creator'",
     "log": [
       "Try parse 'JSON'",
       "Parse 'JSON' failed",
