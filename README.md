@@ -14,3 +14,6 @@ The report is a JSON document consisting of an array of entries, each having:
 * log;      Array of strings representing the internal log messages from this analysis tool; primarily useful for observing the format decoding or detailed tracebacks
 * messages; Array of strings representing messages logged by the spdx/tools-python parsers with the value of each key indicating the number of times a message occurred*  
 (* Location information in the message like file path or line number was stripped)  
+
+## What's next?
+* Rebuild the parser tool from scratch...
